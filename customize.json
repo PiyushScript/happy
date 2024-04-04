@@ -1,0 +1,22 @@
+{
+  "greeting": "Hey",
+  "name": "Khushi",
+  "wishText": "Mark your bday, let the computer celebrate!;)",
+  "imagePath": "img/khushi.jpg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Wishing you a day filled with laughter joy,",
+  "sendButtonLabel": "Send",
+  "text2": "and all the wonderful things your heart desires yearns for.",
+  "text3": "May this year be your best one yet!",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
